@@ -2,5 +2,5 @@
 .codegpt
 football-players-detection-1
 videos
-.avi
-.mp4
+*.avi
+*.mp4
